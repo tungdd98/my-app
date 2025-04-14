@@ -7,6 +7,11 @@ function App() {
 		<div className='App'>
 			<Helmet>
 				<title>My Title</title>
+				<link
+			        	rel="apple-touch-icon"
+			        	sizes="192x192"
+			        	href="./icons8-camera-192.png"
+			        />
 			</Helmet>
 			<header className='App-header'>
 				<img
