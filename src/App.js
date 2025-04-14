@@ -10,7 +10,7 @@ function App() {
 				<link
 			        	rel="apple-touch-icon"
 			        	sizes="192x192"
-			        	href="./icons8-camera-192.png"
+			        	href="https://dummyimage.com/192x192/000/fff&text=v1"
 			        />
 			</Helmet>
 			<header className='App-header'>
