@@ -8,11 +8,6 @@ function App() {
 			<Helmet>
 				<title>My Title</title>
 				<link
-			        	rel="apple-touch-icon"
-			        	sizes="192x192"
-			        	href="/icon8-camera-192.png"
-			        />
-				<link
 			        	rel="icon"
 			        	href="https://dummyimage.com/192x192/000/fff&text=v1"
 			        />
